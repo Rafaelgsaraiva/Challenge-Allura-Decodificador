@@ -1,0 +1,1 @@
+alert(Digite seu texto)
